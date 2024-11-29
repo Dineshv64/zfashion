@@ -165,7 +165,7 @@
 .arr{
     position: absolute;
     z-index: 1;
-    color: #fff;
+    color: black;
     margin-left: 90px;
     
     
@@ -746,7 +746,7 @@ footer .row img{
 .arr{
     position: absolute;
     z-index: 1;
-    color: #fff;
+    color: black;
     margin-left: 60px;
     font-weight: 500;
     
