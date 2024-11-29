@@ -709,7 +709,7 @@ footer .row img{
 }
 /* media query*/
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:510px) {
 
     .navmenu{ display: block;
     }
